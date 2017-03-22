@@ -1,0 +1,179 @@
+[
+  {
+    "id":"1",
+    "genel":
+      {
+        "ders": "MİKROİŞLEMCİLİ SİSTEMLER VE LABORATUVARI",
+        "kodu": "BSM 302",
+        "yariyil": "6",
+        "tusaat": "3+1",
+        "kredi": "4",
+        "akts": "5"
+      },
+    "onkosulders": "",
+    "onerilenders": "",
+    "dersindili":"türkçe",
+    "dersseviyesi":"Lisans",
+    "dersturu":"zorunlu",
+    "derskoord":"Yrd.Doç.Dr. MURAT İSKEFİYELİ",
+    "dersverenler":[
+      {
+        "hoca": "Yrd.Doç.Dr. MURAT İSKEFİYELİ"
+      },
+      {
+        "hoca":"Doç.Dr. CÜNEYT BAYILMIŞ"
+      }
+    ],
+    "dersyardim":"Arş. Gör. Ahmet ARSLAN, Arş.Gör. Erman ÖZER, Arş. Gör. Abdullah SEVİN",
+    "dersamaci":"Bu derste, günümüz bilgisayar teknolojileri içerisindeki programları işleyen ve çalıştıran mikroişlemcili sistemler hakkında bilgi verilmesi; endüstride yaygın kullanılan 8085 mikroişlemci ve 8051 denetleyici mimari yapılarını ve kodlarınıinceleyerek, laboratuar ortamında uygulamalı örnekler ile öğrencilerin teorik vepratik bilgiler kazanması hedeflenmektedir.",
+    "dersicerigi":"Mikroişlemcili Sistem Kavramları; Bellek Çeşitleri, Organizasyonu ve Uygulamaları; 8085 Mikroişlemci Mimarisi; 8051 Mikrodenetleyici Mimarisi, Kodları ve Örnek Uygulamaları"
+  },
+  {
+    "id":"2",
+    "genel":
+      {
+        "ders": "BİLGİSAYAR AĞLARI",
+        "kodu": "BSM 304",
+        "yariyil": "6",
+        "tusaat": "3+0",
+        "kredi": "3",
+        "akts": "5"
+      },
+    "onkosulders": "VERİ İLETİŞİMİ DERSİNİ ALMIŞ OLMAK",
+    "onerilenders": "",
+    "dersindili":"türkçe",
+    "dersseviyesi":"Lisans",
+    "dersturu":"zorunlu",
+    "derskoord":"Doç.Dr. İBRAHİM ÖZÇELİK",
+    "dersverenler":[
+      {
+        "hoca": "Doç.Dr. İBRAHİM ÖZÇELİK"
+      },
+      {
+        "hoca":"Yrd.Doç.Dr. MURAT İSKEFİYELİ"
+      }
+    ],
+    "dersyardim":"Arş. Gör. Musa BALTA Arş. Gör. Kevser OVAZ AKPINAR",
+    "dersamaci":"Bilgisayar ağlarının sahip oldukları altyapıları, erişim yöntemlerini, ne tür uygulamalar için geliştirildiğini, diğer ağ sistemlerinden farklılıklarını, vb. anlatarak ağ sistemlerinin kuramsal ve teknolojik altyapısını öğretmektir.",
+    "dersicerigi":"Bilgisayar ağlarının sınıflandırılması, LAN teknolojileri (Ethernet), TCP/IP protokol ailesi, Alt ağ kavramı, Yönlendirme ve Yönlendirici, WAN teknolojileri"
+  },
+  {
+    "id":"3",
+    "genel":
+      {
+        "ders": "YAZILIM MÜHENDİSLİĞİ",
+        "kodu": "BSM 306",
+        "yariyil": "6",
+        "tusaat": "3+0",
+        "kredi": "3",
+        "akts": "5"
+      },
+    "onkosulders": "",
+    "onerilenders": "",
+    "dersindili":"türkçe",
+    "dersseviyesi":"Lisans",
+    "dersturu":"zorunlu",
+    "derskoord":"Okt. YÜKSEL YURTAY",
+    "dersverenler":[
+      {
+        "hoca": "Okt. YÜKSEL YURTAY"
+      },
+      {
+        "hoca":"Yrd.Doç.Dr. NİLÜFER YURTAY"
+      }
+    ],
+    "dersyardim":"",
+    "dersamaci":"En güncel ve geçerli yazılım mühendisliği standartları hakkında bilgiler vermek, uygulamaya yönelik çözümler üzerinde durmak, geliştirme sürecinde kullanılmak üzere standartlardan türetilmiş bir belge kümesinin şablonlarını vermek. ",
+    "dersicerigi":"Giriş, bilgisayar destekli sistem mühendisliği, proje yönetimi, gereksinimler mühendisliği, yazılım prototipleme, yazılım tasarımı, mimari tasarım, kullanıcı arayüz tasarımı, yazılım güvenirliği, doğrulama, hata sınaması, yazılım yeniden kullanımı, yazılım bakımı, konfigürasyon yönetimi, dönem projesi. "
+  },
+  {
+    "id":"4",
+    "genel":
+      {
+        "ders": "İŞLETİM SİSTEMLERİ",
+        "kodu": "BSM 309",
+        "yariyil": "5",
+        "tusaat": "3+0",
+        "kredi": "3",
+        "akts": "5"
+      },
+    "onkosulders": "",
+    "onerilenders": "",
+    "dersindili":"türkçe",
+    "dersseviyesi":"Lisans",
+    "dersturu":"zorunlu",
+    "derskoord":"Doç.Dr. AHMET ZENGİN",
+    "dersverenler":[
+      {
+        "hoca": "Yrd.Doç.Dr. ALİ GÜLBAĞ"
+      },
+      {
+        "hoca":"Doç.Dr. AHMET ÖZMEN"
+      },
+      {
+        "hoca":"Doç.Dr. AHMET ZENGİN"
+      }
+    ],
+    "dersyardim":"",
+    "dersamaci":"Öğrencilerin işletim sistemlerinin alt sistemleri üzerinde uygulama gerçekleştirebilecek düzeye erişmeleri amaçlanmaktadır. ",
+    "dersicerigi":"Bilgisayar mimarisi, proses yönetimi, prosesler arası senkronizasyon, prosesler arası iletişim, semaforlar ve monitörler, kilitlenmeler, CPU planlama algoritmaları, bellek yönetimi, sanal bellek, dosya sistemleri, giriş/çıkış sistemleri ve disk planlaması. "
+  },
+  {
+    "id":"5",
+    "genel":
+      {
+        "ders": "ALGORİTMA ANALİZİ VE TASARIMI",
+        "kodu": "BSM 312",
+        "yariyil": "6",
+        "tusaat": "3+0",
+        "kredi": "3",
+        "akts": "5"
+      },
+    "onkosulders": "",
+    "onerilenders": "",
+    "dersindili":"türkçe",
+    "dersseviyesi":"Lisans",
+    "dersturu":"zorunlu",
+    "derskoord":"Prof.Dr. NEJAT YUMUŞAK",
+    "dersverenler":[
+      {
+        "hoca": "Prof.Dr. NEJAT YUMUŞAK"
+      },
+      {
+        "hoca":"Arş.Gör.Dr. MUHAMMED FATİH ADAK"
+      },
+      {
+        "hoca":"Yrd.Doç.Dr. DEVRİM AKGÜN"
+      }
+    ],
+    "dersyardim":"Arş.Gör. Dr. M. Fatih ADAK, Arş. Gör. Dr. Mustafa AKPINAR",
+    "dersamaci":"Bilimsel ve hesaba dayalı klasik problemlerin çözümü konusundaki temel algoritmaları öğrenmek. Algoritma çalışma süresi, bellek kullanımı, enerji kullanımı gibi çeşitli yönlerden analizini yapmak. Algoritma zaman karmaşıklığı hakkında bilgi sahibi olmak. NP-Zor ve NP-Tam problemler, Temel NP-Tam problemlere, yakınsamaya ve paralel algoritmalara giriş.",
+    "dersicerigi":"Algoritmalara giriş, asimtotik notasyonlar, algoritma etkinliği, en iyi, en kötü ve ortalama zaman karmaşıklığı analizleri, özyineli fonksiyonlar ve çözüm yöntemleri, yerine koyma yöntemi, sıralama ve arama algoritmaları, en kısa yol bulma, paralel algoritmalar, parçala çöz yöntemleri, küçült çöz yöntemleri, değiştir çöz yöntemleri, çizge algoritmaları, DFS, BFS, Dinamik programlamaya giriş ve açgözlü algoritmalar, lineer programlama, karmaşıklık sınıfları, P, NP, NP-Tam, geriye dönüş metodu, alt sınır teorisi, hashing."
+  },
+  {
+    "id":"6",
+    "genel":
+      {
+        "ders": "STAJ I",
+        "kodu": "BSM 399",
+        "yariyil": "5",
+        "tusaat": "0+1",
+        "kredi": "1",
+        "akts": "5"
+      },
+    "onkosulders": "",
+    "onerilenders": "",
+    "dersindili":"türkçe",
+    "dersseviyesi":"Lisans",
+    "dersturu":"zorunlu",
+    "derskoord":"Yrd.Doç.Dr. DEVRİM AKGÜN",
+    "dersverenler":[
+      {
+        "hoca": "Yrd.Doç.Dr. DEVRİM AKGÜN"
+      }
+    ],
+    "dersyardim":"Bölüm Staj Komisyonu Üyeleri: Arş. Gör. Muhammed Maruf Öztürk, Arş. Gör. İsmail Öztel,Arş. Gör. Kayhan Ayar,Arş. Gör. Sümeyye Kaynak,Arş. Gör. Ahmet Arslan,Arş. Gör. Volkan Seymen,Arş. Gör. Ünal Çavuşoğlu",
+    "dersamaci":" Mühendislik eğitimi boyunca alınan eğitime bağlı olarak, öğrencilerin ilgi alanlarını keşfetmelerine yardımcı olmak, onları iş hayatına hazırlamak ve öğrenilen teorik bilgileri uygulama imkanı sağlamaktır. ",
+    "dersicerigi":"Öğrencilerin öğrenim süreleri içinde kazandıkları bilgi ve deneyimlerini pekiştirmek için görev yapacakları iş yerlerindeki hiyerarşik sorumluluklarını, ilişkileri, organizasyon yapısını, iş disiplinini gözlemleyerek, uygulama yaparak ve sektör çalışanlarının yaptıkları işlevleri yakından izleyerek, diploma programlarına ilişkin bilgi ve görgülerini arttırma imkânı sağlamak,Almış oldukları teorik bilgileri kullanabilme ve uygulamaya aktarma becerisini kazandırmak,İşyeri eğitimi yaptıkları kurumun görevli personeli ile uyumlu çalışma ve işletmenin ilgili olduğu diğer kişilerle (müşteri ya da diğer kurumlar) iyi iletişim kurabilme alışkanlığını kazandırmak, Sektörde yaşanan teknolojik gelişmeleri izleyerek tanımalarını sağlamak "
+  }
+]
