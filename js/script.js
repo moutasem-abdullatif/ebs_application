@@ -5,7 +5,7 @@ $(document).ready(function () {
     //Amac ve Hedefler
     $("#amac").click(function () {
 
-        $('.side-nav li.active').removeClass('active');
+        $(this).parent().siblings().removeClass('active');
         $(this).parent().addClass('active');
 
         var $page_body = $("#page-body");
@@ -21,7 +21,7 @@ $(document).ready(function () {
     //AKTS
     $("#ders-plani").click(function () {
 
-        $('.side-nav li.active').removeClass('active');
+        $(this).parent().siblings().removeClass('active');
         $(this).parent().addClass('active');
 
         var $page_body = $("#page-body");
@@ -150,7 +150,7 @@ $(document).ready(function () {
     //program ogrenim ciktilari
     $("#ciktilari").click(function () {
 
-        $('.side-nav li.active').removeClass('active');
+        $(this).parent().siblings().removeClass('active');
         $(this).parent().addClass('active');
 
         var $page_body = $("#page-body");
